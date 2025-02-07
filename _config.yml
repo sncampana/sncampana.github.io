@@ -14,7 +14,7 @@ title:		           "Sasha Campana's Page"
 description:	       "A little bit about myself"
 author:              "Sasha Campana"
 
-navigation:          {file: "README.md", title: 'Documentation'}
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
